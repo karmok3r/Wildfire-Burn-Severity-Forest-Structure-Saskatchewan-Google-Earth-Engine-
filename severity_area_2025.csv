@@ -1,0 +1,8 @@
+system:index,area_ha,class,name,.geo
+0,1.0,1,"Enhanced regrowth, high","{""type"":""MultiPoint"",""coordinates"":[]}"
+1,50.0,2,"Enhanced regrowth, low","{""type"":""MultiPoint"",""coordinates"":[]}"
+2,1750.0,3,Unburned,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,2090.0,4,Low severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,3628.0,5,Moderate-low severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,3964.0,6,Moderate-high severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,592.0,7,High severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
